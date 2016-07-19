@@ -1,4 +1,4 @@
-# ${1:Optical Flow}
+1:Optical Flow
 TODO: Write a project description
 ## Installation
 
